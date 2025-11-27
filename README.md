@@ -9,7 +9,4 @@ Files included:
 - requirements.txt : suggested packages
 - example_usage.ipynb : (optional) suggested notebook outline (not executable here)
 
-Notes:
-- Place your datasets in a 'data/' folder in the same directory (paths referenced in code).
-- The CGM LSTM file has an optional TensorFlow section commented out; install TF if you plan to run it.
-- These scripts are intended as a starting point; tune hyperparameters and add logging/experiment tracking for production.
+
