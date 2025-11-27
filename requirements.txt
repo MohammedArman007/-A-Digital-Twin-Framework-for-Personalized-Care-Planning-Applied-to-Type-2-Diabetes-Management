@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow  # optional; only required for cgm_lstm.py if you want to train deep models
